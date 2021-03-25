@@ -22,7 +22,7 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     install_requires=[
-        'PyYAML==5.1.2',
+        'PyYAML==5.4',
     ],
     extras_require={
         'google_drive': [
